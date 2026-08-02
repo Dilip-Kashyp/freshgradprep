@@ -84,7 +84,7 @@ Contributors collaborate through a structured workflow that helps them understan
 
 If you are interested in contributing:
 
-1. Fork the repository and copy both the branches.
+1. Fork the repository and copy both the branches, make sure unchecking the **Copy the main branch only**.
 2. Create a new branch **only from the `dev` branch**.
 3. Make your changes  
 4. Submit a Pull Request  
